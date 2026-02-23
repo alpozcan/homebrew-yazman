@@ -2,7 +2,7 @@ class Yazman < Formula
   desc "Türkçe teknik makale yazım denetleyicisi — yerel LLM + RAG ile"
   homepage "https://github.com/alpozcan/yazman"
   url "https://github.com/alpozcan/yazman/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "3c4d4d20273f336fbc5dd5b7061cfcdeffca2fd442a47fc947aae4097589fa10"
+  sha256 "96f155bdd235c27ba15195e72f3c9a8f7ade451b63a3110c385ffc08ac9d977e"
   license "MIT"
 
   depends_on xcode: ["16.0", :build]
